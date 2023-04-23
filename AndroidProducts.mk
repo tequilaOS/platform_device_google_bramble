@@ -22,5 +22,4 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     aosp_bramble-userdebug \
-    tequila_bramble-userdebug \
-    tequila_bramble-user
+    tequila_bramble-userdebug
